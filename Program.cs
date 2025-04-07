@@ -10,6 +10,7 @@ namespace FirstProject
 
         static void Main(string[] args)
         {
+            // test
             Console.WriteLine(" Welcome!");
             NewLine();
             List<Exercise> toDoList = new List<Exercise>();
